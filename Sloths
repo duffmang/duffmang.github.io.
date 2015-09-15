@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html class="no-js" lang="">
     <head>
@@ -11,10 +12,75 @@
         <link rel="stylesheet" href="/css/main.css">
 
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-    </head>
+    <style>
+		.rock{
+			width:10%;
+			height:10%;
+			margin:center;
+			}
+	</style>
+	
+	
+	
+	</head>
     <body>
-        <p> Sup bruh </p>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<div class="Intro">
+		<h1> SLOTHS!?!?!??!? </h1>
+	<div class="left">
+		<p> Beacause sloths, thats why!!!</p>
+	</div>
+	</div>
+	
+	
+	<div class="left">
+	<iframe width="512" height="288" src="http://www.hulu.com/embed.html?eid=aezpgynuui8trmzfaaccia" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+	</div>
+	
+	
+	<div class="rock">
+	<img src="http://www.thevurdalakshow.com/encyclopedia/articles/supersloth//rommel/suepr%20sloth%203.jpg" alt="sorry, not sorry">
+	</div>
+     
+	 
+	 <div style=align:"center">
+	 <h1> Sloths defeated Voldemort?</h1>
+	<p>Yes, Yes they did!</p>
+	 <img src="http://cdn.omg-facts.com/2013/4/24/4925873913f08e3d8872019108032c80.jpg" alt="yea, buddy">
+	
+
+	</div>
+	 <h2> Sloths also... </h2>
+		<ul>
+			<li>Sloths are great swimmers.
+			<ul>
+			<li>Whatch out Michael Phelps</li>
+			</ul>
+			
+			</li>
+			<li>Sloths spend most of their time in trees. </li>
+			<li>Sloths can retain their grip after death.
+			<ul>
+			<li>Did someone say death grip? Hell yeah!</li>
+			</ul>
+			</li>
+			<li>Sloths are nocturnal animals.</li>
+			<ul>
+					<li>They party all night long!</li>
+					<li>They also fight crime!</li>
+				</ul>
+			<li>Sloths diets consist mostly of leaves which gives them minimal energy and nutrition
+				<ul>
+					<li>Sloths love the environment</li>
+					<li>Sloths are vegan because they do not support and meat and dairy industry because they hurt cows.</li>
+				</ul>
+			</li>
+				
+		</ul>
+			
+	   
+	   
+	 
+	   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 
         <script src="js/main.js"></script>
